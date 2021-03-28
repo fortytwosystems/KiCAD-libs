@@ -1,0 +1,21 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ATSAMC21E
+D 32-bit Arm Cortex-M0+ with 5V Support, CAN-FD, PTC, and Advanced Analog
+K 32-bit ARM Cortex-M0+ MCU Microcontroller
+F http://ww1.microchip.com/downloads/en/DeviceDoc/SAMC20_C21_Family_Data_Sheet_DS60001479D.pdf
+$ENDCMP
+#
+$CMP ATSAMC21G
+D 32-bit Arm Cortex-M0+ with 5V Support, CAN-FD, PTC, and Advanced Analog
+K 32-bit ARM Cortex-M0+ MCU Microcontroller
+F http://ww1.microchip.com/downloads/en/DeviceDoc/SAM_D21_DA1_Family_Data%20Sheet_DS40001882E.pdf
+$ENDCMP
+#
+$CMP ATSAMC21N
+D 32-bit Arm Cortex-M0+ with 5V Support, CAN-FD, PTC, and Advanced Analog
+K 32-bit ARM Cortex-M0+ MCU Microcontroller
+F http://ww1.microchip.com/downloads/en/DeviceDoc/SAM_D21_DA1_Family_Data%20Sheet_DS40001882E.pdf
+$ENDCMP
+#
+#End Doc Library
